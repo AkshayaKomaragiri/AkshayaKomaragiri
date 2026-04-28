@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-TypeScript, JavaScript, Python, Go, C++
+TypeScript, JavaScript, Python, Go, C++, Java
 
 **Backend:**  
 Node.js (Express), Next.js
